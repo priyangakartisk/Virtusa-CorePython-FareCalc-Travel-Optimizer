@@ -13,7 +13,7 @@ Step 3: Run the program
 python farecalc.py
 
 # Vehicle Rates
-Vehicle Type	    Rate per km
+Vehicle Type	 and   Rate per km
 Economy	       -      $10
 Premium        -     	$18
 SUV	           -      $25
